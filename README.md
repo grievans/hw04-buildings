@@ -1,3 +1,16 @@
+
+## Target Style
+
+![IMG_1611](https://github.com/user-attachments/assets/d76deab1-ae13-4b96-8781-3e1dd47ad85f)
+![IMG_1637](https://github.com/user-attachments/assets/e4a99768-6a29-4b32-8cce-44b09f8f042b)
+![IMG_1640](https://github.com/user-attachments/assets/4bba9711-716a-41dc-98e6-81728732eec9)
+
+Photos of buildings on the [Ponte Vecchio](https://en.wikipedia.org/wiki/Ponte_Vecchio) in Florence.
+- Very rigid right angles except for roofs/awnings, which are slightly angled and have shingles.
+- Many small windows with external shutters. Very slight awnings jutting over them.
+- Baclonies with wiry railings and similarly-shuttered doors; generally on top of second floor of a building of three floors but also sometimes on higher roofs.
+- Overhangs with simple diagonal wooden supports on the bridge part itself, and overhangs higher up over the road (hence more visible to a passerby -->) using slightly more ornate supports and arched sections.
+
 # CIS 5660 HW04 Procedural Buildings
 
 ## Project Overview
