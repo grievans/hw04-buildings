@@ -1,4 +1,7 @@
-[I will be using a late day]
+[I am using a late day]
+
+
+//BRB need to reboot to my OS that ffmpeg is installed on to downsize file
 
 ## Target Style
 
