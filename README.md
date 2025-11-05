@@ -1,7 +1,19 @@
 [I am using a late day]
 
+# CIS 5660 HW04 Procedural Buildings
 
-//BRB need to reboot to my OS that ffmpeg is installed on to downsize file
+## Overview
+
+![](Screenshot%202025-11-04%20233709.png)
+
+This is a procedurally-constructed building in Houdini which can be manipulated with a variety of parameters. This includes changing the number and sizes of floors, enabling/disabling pillars at the corners of each floor, and controlling the distance that support beams drop down from overhangs on each floor. Supports can be disabled or selected between two styles: one has only a beam connecting it to the level below, while the other includes beams that drop down from a series of arches.
+
+Props populate the walls of each floor: most commonly, windows with shutters that have parameterized sizes and opening angles, which can also have their shutters disabled entirely. For floors above the first, balconies with similarly-shuttered doors appear, which additionally have controls for the size of the balcony itself and the railing on it. The railing has two different selectable styles, one being a railing consisting of simple vertical bars, while the other uses a more ornate spiralling pattern. The ground floor features a grander style of door, with an arched top, which can similarly have its size and opening angle adjusted.
+
+## Video Demonstration
+
+https://github.com/user-attachments/assets/481d39ec-4a1d-4ecb-bed3-2336f5975b9f
+
 
 ## Target Style
 
@@ -9,13 +21,24 @@
 ![IMG_1637](https://github.com/user-attachments/assets/e4a99768-6a29-4b32-8cce-44b09f8f042b)
 ![IMG_1640](https://github.com/user-attachments/assets/4bba9711-716a-41dc-98e6-81728732eec9)
 
-Photos of buildings on the [Ponte Vecchio](https://en.wikipedia.org/wiki/Ponte_Vecchio) in Florence.
+The tool was modeled after photos of buildings on the [Ponte Vecchio](https://en.wikipedia.org/wiki/Ponte_Vecchio) in Florence. Observed stylistic details included:
 - Very rigid right angles except for roofs/awnings, which are slightly angled and have shingles.
 - Many small windows with external shutters. Very slight awnings jutting over them.
 - Baclonies with wiry railings and similarly-shuttered doors; generally on top of second floor of a building of three floors but also sometimes on higher roofs.
 - Overhangs with simple diagonal wooden supports on the bridge part itself, and overhangs higher up over the road (hence more visible to a passerby -->) using slightly more ornate supports and arched sections.
 
-# CIS 5660 HW04 Procedural Buildings
+
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
 
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
